@@ -1,4 +1,4 @@
-# 🧪 QualityLibrary Unit Tests  
+# 🧪 Personnel Management Function Library  
 
 This project contains **unit tests** for the `qualitylibrary` C# library.  
 The tests validate core functionality related to employees, password security, phone validation, and encryption.  
